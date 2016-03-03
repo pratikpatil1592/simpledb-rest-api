@@ -1,0 +1,1 @@
+A sample SimpleDB based REST API for educational purposes.

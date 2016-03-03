@@ -1,0 +1,22 @@
+{
+  "name": "simpledb-rest-api-tut",
+  "version": "1.0.0",
+  "description": "A SimpleDB powered REST API server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "simpledb",
+    "rest"
+  ],
+  "author": "Kyle J. Davis",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.2",
+    "aws-sdk": "^2.2.40",
+    "body-parser": "^1.15.0",
+    "cuid": "^1.3.8",
+    "express": "^4.13.4"
+  }
+}
